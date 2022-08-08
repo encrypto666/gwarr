@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x699e660B4aF60F49299DcB265a4C09a694Ebc5A9",
+  "SCAN_LINK": "https://etherscan.io/address/0x699e660b4af60f49299dcb265a4c09a694ebc5a9",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Galactic Warriors",
+  "SYMBOL": "GalacticWarriors",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/galactic-warriors-1",
+  "SHOW_BACKGROUND": false
+}
